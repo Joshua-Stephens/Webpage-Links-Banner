@@ -1,0 +1,29 @@
+body {
+
+    margin: auto;
+    background-color: powderblue ;
+    max-width: 500px;
+    font-family: Verdana;
+    }
+    
+h3 {
+    text-align: center;
+    color: rgb(118, 9, 220);
+    text-decoration: underline;
+    }
+
+nav {
+text-align: center;
+} 
+
+div{
+text-align: center;
+}
+
+footer{
+text-align: center;
+}
+
+ul{
+ list-style-image: url(animated-bullet-10.gif);   
+}
